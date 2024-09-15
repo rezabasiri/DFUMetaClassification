@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn==1.5
+xgboost==2.0.3
+catboost==1.2.3
+shap
+tqdm
+joblib
+imbalanced-learn
