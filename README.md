@@ -46,7 +46,7 @@ python main.py
 
 ## License
 
-MIT
+Apache License
 
 ## Contributing
 
