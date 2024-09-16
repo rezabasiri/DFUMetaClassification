@@ -18,7 +18,7 @@ The pipeline includes data preprocessing, feature engineering, SHAP-based featur
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/dfu-classification.git
+   git clone https://github.com/rezabasiri/dfumetaclassification.git
    cd dfu-classification
    ```
 
@@ -50,5 +50,5 @@ Apache License
 
 ## Contributing
 
-Reza Basiri, PhD University of Toronto
-PIs: Dr. Milos R. Popovic, Dr. Shehroz S. Khan
+Reza Basiri, PhD Biomedical Engineering, University of Toronto <br/>
+Advisors: Dr. Milos R. Popovic, Dr. Shehroz S. Khan
